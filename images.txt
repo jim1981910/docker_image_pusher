@@ -1,5 +1,2 @@
-mysql
-itop
-lamp
-nginx
+seafile:latest
 
