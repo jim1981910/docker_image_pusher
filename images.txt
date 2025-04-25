@@ -1,2 +1,2 @@
-seafile:latest
+nginx
 
