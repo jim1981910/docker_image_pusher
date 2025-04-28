@@ -1,4 +1,2 @@
 nginx
-apache2
-seafile
-itop
+
